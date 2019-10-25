@@ -1,0 +1,10 @@
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\bin\Debug\RegisztraciosAlkazmazas.exe.config
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\bin\Debug\RegisztraciosAlkazmazas.exe
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\bin\Debug\RegisztraciosAlkazmazas.pdb
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.csprojAssemblyReference.cache
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.Form1.resources
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.Properties.Resources.resources
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.exe
+C:\Users\Diak\Desktop\RegisztraciosAlkazmazas\RegisztraciosAlkazmazas\obj\Debug\RegisztraciosAlkazmazas.pdb
